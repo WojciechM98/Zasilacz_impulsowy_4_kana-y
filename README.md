@@ -1,0 +1,1 @@
+# Zasilacz_impulsowy_4_kana-y
