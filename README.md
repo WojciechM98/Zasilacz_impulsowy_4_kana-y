@@ -1,3 +1,3 @@
 # Zasilacz_impulsowy_4_kanały
 
-Projekt
+Projekt w trakcie
