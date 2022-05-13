@@ -8,3 +8,5 @@ Maksymalny prąd przy nastawie napięcia wyjściowego 12V = 2A
 ![](płytka.png)
 
 Link do podglądu w 3D: https://a360.co/3L5ZWJz
+
+Projekt cały czas w rozwoju.
