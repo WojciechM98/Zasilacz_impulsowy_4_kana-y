@@ -13,6 +13,7 @@ Poprawka layoutu elementów 27.05.2022.
 Wprowadzono optymalizacje położenia obwodów przetwornic, dzieki czemu szerokość płytki zmniejszyła się ze 112mm do 98mm. 
 Głównym powodem powyższej zmiany było złe ułożenie elementów takich jak dławik, dioda oraz kondensatory na wyjściu każdej przetornicy. Poniższe zdjęcie przedstawia powierzchnie (zaznaczone kolorem zielonym) switching node, która docelowo (strona lewa) została możliwie maksymalnie zmniejszona.
 
+![](27.05.2022_switching_node.jpg)
 
 
 Projekt cały czas w rozwoju.
